@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Exceptions___Exception_Handling</RootNamespace>
+	  <StartupObject>Exceptions___Exception_Handling.ThrowDemo</StartupObject>
+  </PropertyGroup>
+
+</Project>
